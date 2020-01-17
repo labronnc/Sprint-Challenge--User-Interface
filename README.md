@@ -32,15 +32,15 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
-1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+1. If you were to describe semantic HTML to the next cohort of students, what would you say? Semantic HTML is the equivalent to grammar in your respective languages, so where you need to pay attention to where your adjectives, verbs and nouns, pronouns and etc are placed, you must do the same for writing HTML. It's understanding how to structure your text, being able to solidify order of operations, such as having a a head, and a body and then sections underneath like paragraphs, headers and other functions. Taking those concepts it's understanding that a paragraph doesn't go above a head, and in the same sense indenting and making your code readable. Just as you would when writing a paper, you would make sure you have punctation and indention so reading is easier.
 
-2. Name two big differences between ```display: block;``` and ```display: inline;```.
+2. Name two big differences between ```display: block;``` and ```display: inline;```. One of the biggest differences between block and inline, is display: block indicates the element be displayed as a block having some whitespace around it, display: inline indicates that the element is displayed inline, inside the current block on the same line. Another big difference is display block has respect for width, and padding. Inline, however, does not have any respect for vertical padding or wdith changes. 
 
-3. What are the 4 areas of the box model?
+3. What are the 4 areas of the box model? Content edge, padding edge, border edge, and margin edge.
 
-4. While using flexbox, what axis does the following property work on: ```align-items: center```?
+4. While using flexbox, what axis does the following property work on: ```align-items: center```? The cross axis.
 
-5. Explain why git is valuable to a team of developers.
+5. Explain why git is valuable to a team of developers. Git is valuable because it gives developer the opportunity to wield version control. That is especially important when coding because it allows you not only to keep track of your revisions, and changes, but it also allows you to backtrack to prior code or a prior version if what you've done had messed something up. Ex. In game development where sometimes there is an update to the game, but when you're playing it you realize that something else is broken. The developer has the priveledge of going back to when the broken functionality was correct and debug so where both desired functions are acquired.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
