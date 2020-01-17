@@ -104,7 +104,6 @@ p {
 .middle-content .boxes .box {
     width: 12.5%;
     height: 100px;
-    background: black;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -153,30 +152,6 @@ header nav{
     
 }
 
-/*header nav{
-    display: flex;
-    justify-content: space-between;
-}
-.main-header .navbar {
-    padding: 10px;
-    /* border: blue solid 1px; 
-}
-.navbar a{
-    color: #ccc;
-    text-decoration: none;
-    padding: 5px;
-    font-size: 20px;
-    display:flex;
-    justify-content:space-between;
-    align-items:enter;
-    width:60%;
-    margin-left: 30px;
-}
-.main-header .navbar ul {
-    /* border: green solid 1px; */
-.navoverall{
-    
-}
 .something a{
     padding: 30px;
     color: black;
@@ -245,4 +220,35 @@ bottom: 13.4px;
     border-radius: 10px;
     border-color: black;
     font-size: 15px;
+}
+
+.box1{
+    background-color: teal;
+}
+.box2{
+    background-color: gold;
+}
+.box3{
+    background-color: cadetblue;
+}
+.box4{
+    background-color: coral;
+}
+.box5{
+    background-color: crimson;
+}
+.box6{
+    background-color: darkorchid;
+}
+.box7{
+    background-color: forestgreen;
+}
+.box8{
+    background-color: hotpink;
+}
+.box9{
+    background-color: indigo;
+}
+.box10{
+    background-color: dodgerblue;
 }
